@@ -16,9 +16,9 @@
  * (which should provide both row and column sums formatted at the ends of the
  * rows and columns), and/or just display the matrix.
  *
- * @author Jason Travis
+
  */
-package project3;
+
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

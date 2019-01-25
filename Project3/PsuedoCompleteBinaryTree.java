@@ -1,12 +1,8 @@
-package project3;
+
 
 import java.util.Arrays;
 
-/**
- * PsuedoCompleteBinaryTree prints a recursively generated character representation
- * of a binary tree
- * @author Jason Travis
- */
+
 public class PsuedoCompleteBinaryTree {
 
     private final char[][] tree;

@@ -1,11 +1,4 @@
-package project3;
 
-/**
- * Knapsack is a recursive solution to a simple version of the Knapsack problem
- * where the goal is to try and fit items of different weights into a knapsack
- * so that the knapsack ends up with a specified total weight
- * @author Jason Travis
- */
 public class Knapsack {
 
     private int capacity;
