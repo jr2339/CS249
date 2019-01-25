@@ -1,8 +1,3 @@
-package project1;
-
-/**
- * @author Jason Travis
- */
 public class EvenOddSort {
     
     int[] arr;

@@ -1,4 +1,4 @@
-package project1;
+
 
 // InsertionSort.java
 // demonstrates insertion sort

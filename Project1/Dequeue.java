@@ -1,10 +1,3 @@
-package project1;
-
-/**
- * Dequeue represents a generic double-ended queue
- *
- * @author Jason Travis
- */
 public class Dequeue<E> {
 
     protected Object[] dequeue;
