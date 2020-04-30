@@ -123,6 +123,28 @@ public class LinkedListClass {
     }
 
     /**
+     * Finds reference to last node in linked list
+     * @return BoxClass reference to last item
+     */
+    private BoxClass findLastItemRef()
+    {
+        BoxClass workingRef = headRef;
+        int size = getCurrentSize();
+        if (size == 0){
+            return null;
+        }
+        /*the same as headref == null
+        if(headref == null){
+            return headref
+        }
+         */
+        for (int index =0; index < size; index++){
+            workingRef = workingRef.nextRef;
+        }
+        return workingRef;
+    }
+
+    /**
      * Description: Gets current size of linked list
      * Note: size of linked list indicates number of valid or
      * viable values in the linked list
