@@ -161,22 +161,15 @@ public class LinkedListClass {
     public boolean insertItemAt(int insertIndex,
                                 BoxClass newValue)
     {
-        int index = getCurrentSize();
+        int size= getCurrentSize();
 
-        BoxClass temp;
+        BoxClass workingRef = headRef;
 
-        if(insertIndex >=0 && insertIndex < index)
-        {
-            temp = accessItemAt(insertIndex);
-
-            if(temp != null)
-            {
-                headRef = temp;
-
-                headRef = newValue;
-
-                return true;
-            }
+        if(insertIndex >=0 && insertIndex <= size) {
+            accessItemAt(insertIndex-1);
+            newValue.nextRef = workingRef.nextRef;
+            workingRef.nextRef = newValue;
+            return true;
         }
         return false;
     }
@@ -199,13 +192,12 @@ public class LinkedListClass {
      */
     public boolean isInlinkedList(BoxClass testVal)
     {
-        int index = 0;
-
-        for(index = 0; index < getCurrentSize();index++)
+        BoxClass workingRef = headRef;
+        for(int index = 0; index < getCurrentSize();index++)
         {
-            if(headRef == testVal)
+            if(workingRef == testVal)
                 return true;
-            headRef = headRef.nextRef;
+            workingRef = workingRef.nextRef;
         }
         return false;
     }
@@ -218,18 +210,19 @@ public class LinkedListClass {
      */
     public BoxClass removeItemAt(int removeIndex)
     {
-        BoxClass temp = accessItemAt(removeIndex);
+        BoxClass workingRef= accessItemAt(removeIndex-1);
+
 
         int index = getCurrentSize();
 
         if(removeIndex <0 || removeIndex>=index)
             return null;
 
-        if(temp != null)
+        if(workingRef!= null)
         {
-            headRef = headRef.nextRef.nextRef;
+            workingRef.nextRef = workingRef.nextRef.nextRef;
 
-            return temp;
+            return workingRef;
         }
         else
             return null;
