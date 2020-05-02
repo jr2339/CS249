@@ -37,9 +37,9 @@ public class Generic_BST_Class<GenericData extends java.lang.Comparable<GenericD
          */
         public BST_Node(Generic_BST_Class.BST_Node copied)
         {
-            leftChildRef = copied.leftChildRef;
+            leftChildRef = null;
 
-            rightChildRef = copied.rightChildRef;
+            rightChildRef = null;
 
             nodeData = (GenericData) copied.nodeData;
         }
