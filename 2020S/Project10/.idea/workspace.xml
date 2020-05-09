@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a168beb-e719-4675-be16-6977211ffaa4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Project1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/Project1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/out/production/Project1/p1_package/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/src/p1_package/ArrayClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/src/p1_package/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/Project2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/src/p2_package/GenericArrayClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/src/p2_package/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/src/p2_package/StudentClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/Project3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/src/p3_package/ArrayClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/src/p3_package/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/Project4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/out/production/Project4/p4_package/BoxClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/out/production/Project4/p4_package/ContainerBoxClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/out/production/Project4/p4_package/ContainerBoxClassMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/out/production/Project4/p4_package/PointClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/src/p4_package/BoxClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/src/p4_package/ContainerBoxClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/src/p4_package/ContainerBoxClassMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/src/p4_package/PointClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project5/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project5/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project5/Project5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project5/src/p5_package/ArrayClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project5/src/p5_package/IteratorClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project5/src/p5_package/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project5/src/p5_package/StackClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project6/Code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project6/Code/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project6/Code/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project6/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project6/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project6/Code/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project6/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project6/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project6/Code/src/p6_package/BoxClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project6/Code/src/p6_package/LinkedListClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project6/Code/src/p6_package/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project6/Code/src/p6_package/QueueClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project7/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project7/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project7/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project7/Project7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project7/src/p7_package/Generic_BST_Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project7/src/p7_package/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project7/src/p7_package/StateDataClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project8/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project8/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project8/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project8/Project8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project8/out/production/Project8/p8_package/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project8/out/production/Project8/p8_package/TwoThreeNodeClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project8/out/production/Project8/p8_package/TwoThreeTreeClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project8/src/p8_package/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project8/src/p8_package/TwoThreeNodeClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project8/src/p8_package/TwoThreeTreeClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project9/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project9/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project9/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project9/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project9/Project9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project9/out/production/Project9/p9_package/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project9/out/production/Project9/p9_package/OpCodeClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project9/out/production/Project9/p9_package/OpCodeHeapClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project9/src/p9_package/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project9/src/p9_package/OpCodeClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project9/src/p9_package/OpCodeHeapClass.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1bgulxZeJ2WZU4hDu8De6r9Zt8H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="p10_package.ProbingHashClassMain" />
+      <module name="Project10" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a168beb-e719-4675-be16-6977211ffaa4" name="Default Changelist" comment="" />
+      <created>1589066212102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589066212102</updated>
+      <workItem from="1589066215165" duration="243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="429" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589066372462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="429" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589066372462" />
+    <state x="704" y="325" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589066370877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="325" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589066370877" />
+    <state width="1175" height="279" key="GridCell.Tab.0.bottom" timestamp="1589066457417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1175" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589066457417" />
+    <state width="1175" height="279" key="GridCell.Tab.0.center" timestamp="1589066457417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1175" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589066457417" />
+    <state width="1175" height="279" key="GridCell.Tab.0.left" timestamp="1589066457417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1175" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589066457417" />
+    <state width="1175" height="279" key="GridCell.Tab.0.right" timestamp="1589066457417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1175" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589066457417" />
+  </component>
+</project>
